@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://i.postimg.cc/mD7hFgDt/Whats-App-Image-2025-02-17-at-12-51-35-PM.jpg)"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank">
@@ -13,23 +8,17 @@
   </a>
 </div>
 
-###
+<h4 align="left"> About Me</h4>
 
-<h1 align="center">hey there 👋</h1>
+<h5 align="left">I am a Computer Science student, web developer, and passionate programmer with a strong foundation in problem-solving and real-world application development. My expertise lies in crafting efficient, scalable solutions to complex challenges, leveraging my experience in Machine Learning, Artificial Intelligence, and Generative AI.
 
-###
+Actively engaged in research and innovation, I explore cutting-edge technologies to drive impactful advancements. With a deep understanding of software development and a keen interest in AI-driven solutions, I thrive on building intelligent systems that bridge the gap between theory and practical implementation.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Beyond my academic and professional pursuits, I dedicate my free time to developing independent projects, continuously refining my skills and staying at the forefront of technological evolution.
 
-###
+Let's collaborate and build transformative solutions! 🚀</h5>
 
-<h3 align="left">Hey , This is Tanvir,<br><br>Passionate programmer with a thirst for innovation and a drive to make an impact. I love crafting elegant and efficient solutions to complex problems. <br><br>- 🔭 I’m working as a Computer Science Student and also i am a Web Developer<br>- 📚 Currently, I'm working in Machine Learning and Research.<br>- ⚡ In my free time I used to develop my own Project.</h3>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h4 align="left">🛠 Language and tools</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
