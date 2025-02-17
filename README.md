@@ -1,13 +1,18 @@
-
-<div align="center">
+<div align="center" style="position: relative; display: inline-block;">
   <!-- Your profile image -->
-  <img src="your-image-url.jpg" height="150" alt="Your Image" />
-  
+  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/WhatsApp%20Image%202025-02-17%20at%2012.51.35%20PM.jpeg?raw=true" 
+       height="150" 
+       alt="Your Image" 
+       style="border-radius: 50%; display: block;"/>
+
   <!-- LinkedIn link -->
-  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank" 
+     style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         height="25" alt="linkedin logo" />
   </a>
 </div>
+
 
 <h4 align="left"> About Me</h4>
 
