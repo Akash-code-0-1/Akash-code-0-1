@@ -1,9 +1,7 @@
 <div align="center" style="position: relative; display: inline-block;">
   <!-- Your profile image -->
-  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/WhatsApp%20Image%202025-02-17%20at%2012.51.35%20PM.jpeg?raw=true" 
-       height="150" 
-       alt="Your Image" 
-       style="border-radius: 50%; display: block;"/>
+  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/WhatsApp%20Image%202025-02-17%20at%2012,51,35%20PM-photoaidcom-cropped.jpeg?raw=true" 
+       height="200" width="200" />
 
   <!-- LinkedIn link -->
   <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank" 
@@ -13,9 +11,6 @@
   </a>
 </div>
 
-
-<h4 align="left"> About Me</h4>
-
 <h5 align="left">I am a Computer Science student, web developer, and passionate programmer with a strong foundation in problem-solving and real-world application development. My expertise lies in crafting efficient, scalable solutions to complex challenges, leveraging my experience in Machine Learning, Artificial Intelligence, and Generative AI.
 
 Actively engaged in research and innovation, I explore cutting-edge technologies to drive impactful advancements. With a deep understanding of software development and a keen interest in AI-driven solutions, I thrive on building intelligent systems that bridge the gap between theory and practical implementation.
@@ -23,6 +18,34 @@ Actively engaged in research and innovation, I explore cutting-edge technologies
 Beyond my academic and professional pursuits, I dedicate my free time to developing independent projects, continuously refining my skills and staying at the forefront of technological evolution.
 
 Let's collaborate and build transformative solutions! 🚀</h5>
+
+---
+
+
+## 📌 Featured Projects
+
+- 🚀 [Problem Solving_C++](https://github.com/Akash-code-0-1/Problem-Solving-C-plus-plus--2025-)  
+  🏆 A collection of optimized problem-solving solutions using multiple approaches in **C++**, helping to build strong algorithmic thinking.  
+
+- 📊 [Sorting Algorithm Visualizer](https://github.com/Akash-code-0-1/SortViz)  
+  🔢 A **React.js** web app that visualizes **9 sorting algorithms** with step-by-step execution and explanations. Built with **Tailwind CSS**, it is fully responsive.  
+
+- 🧠 [Study Mode](https://github.com/Akash-code-0-1/Study-Mode)  
+  📚 A productivity tool designed to enhance study sessions by managing tasks, tracking focus time, and providing AI-driven study recommendations.  
+
+- 🎨 [Code Viz](https://github.com/Akash-code-0-1/Code-Viz)  
+  📊 A **React.js** app that visually represents code execution and debugging steps in real-time. Great for understanding complex logic.  
+
+- 🔥 [Simple Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Simple-Full-Stack-Social-Media-Application)  
+  🌍 A **full-stack** social media platform built with **React.js**, featuring real-time chat, post sharing, and a responsive **Tailwind CSS** design.  
+
+- 🌐 [Genesis Website](https://github.com/Akash-code-0-1/Simple-Full-Stack-Social-Media-Application)  
+  💻 A modern, interactive, and **responsive** website built with **React.js** and **Tailwind CSS** to showcase projects, blogs, and personal branding.  
+
+---
+
+
+---
 
 <h4 align="left">🛠 Language and tools</h4>
 
@@ -47,4 +70,9 @@ Let's collaborate and build transformative solutions! 🚀</h5>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+
+---
+
+## 🔥 Visitor Counter  
+![Profile Views](https://komarev.com/ghpvc/?username=Akash-code-0-1&color=blue&style=flat-square)
 
