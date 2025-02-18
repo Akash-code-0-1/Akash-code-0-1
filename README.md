@@ -1,9 +1,9 @@
 <div align="center" style="position: relative; display: inline-block;">
-  <!-- Your profile image -->
+
   <img src="https://github.com/Akash-code-0-1/Profile/blob/main/WhatsApp%20Image%202025-02-17%20at%2012,51,35%20PM-photoaidcom-cropped.jpeg?raw=true" 
        height="200" width="200" />
 
-  <!-- LinkedIn link -->
+
   <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank" 
      style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
