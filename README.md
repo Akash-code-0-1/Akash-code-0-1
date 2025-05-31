@@ -8,8 +8,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          height="25" alt="linkedin logo" />
   </a>
-
-  
 </div>
 
 <h5 align="left">I am a Computer Science student, web developer, and passionate programmer with a strong foundation in problem-solving and real-world application development. My expertise lies in crafting efficient, scalable solutions to complex challenges, leveraging my experience in Machine Learning, Artificial Intelligence, and Generative AI.
