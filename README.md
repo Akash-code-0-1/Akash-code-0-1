@@ -28,7 +28,7 @@ Let's collaborate and build transformative solutions! 🚀</h5>
 - 📊 [Sorting Algorithm Visualizer](https://github.com/Akash-code-0-1/SortViz)  
   🔢 A **React.js** web app that visualizes **9 sorting algorithms** with step-by-step execution and explanations. Built with **Tailwind CSS**, it is fully responsive.
 
-- 📊 [Graph Algorithm Visualizer](https://github.com/Akash-code-0-1/SortViz) 
+- 📊 [Graph Algorithm Visualizer](https://github.com/Akash-code-0-1/Graph-Algorithms-Visualization.git)
   🔍 A Next.js web app that visualizes graph algorithms like BFS, DFS, and Dijkstra with step-by-step execution and animations. Built with React and Tailwind CSS, it is fully responsive and supports interactive graph creation.
   
 - 🧠 [Study Mode](https://github.com/Akash-code-0-1/Study-Mode)  
