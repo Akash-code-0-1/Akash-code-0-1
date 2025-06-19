@@ -30,18 +30,14 @@ Let's collaborate and build transformative solutions! 🚀</h5>
 
 - 📊 [Graph Algorithm Visualizer](https://github.com/Akash-code-0-1/Graph-Algorithms-Visualization.git)
   🔍 A Next.js web app that visualizes graph algorithms like BFS, DFS, and Dijkstra with step-by-step execution and animations. Built with React and Tailwind CSS, it is fully responsive and supports interactive graph creation.
-  
-- 🧠 [Study Mode](https://github.com/Akash-code-0-1/Study-Mode)  
-  📚 A productivity tool designed to enhance study sessions by managing tasks, tracking focus time, and providing AI-driven study recommendations.  
 
-- 🎨 [Code Viz](https://github.com/Akash-code-0-1/Code-Viz)  
-  📊 A **React.js** app that visually represents code execution and debugging steps in real-time. Great for understanding complex logic.  
+- 🔥 [Simple Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application)
+  🌍 A **full-stack** social media platform built with **React.js**, featuring real-time chat, post sharing, and a responsive **Tailwind CSS** design. 
 
-- 🔥 [Simple Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Simple-Full-Stack-Social-Media-Application)  
-  🌍 A **full-stack** social media platform built with **React.js**, featuring real-time chat, post sharing, and a responsive **Tailwind CSS** design.  
 
-- 🌐 [Genesis Website](https://github.com/Akash-code-0-1/Simple-Full-Stack-Social-Media-Application)  
+- 🌐 [Genesis Website](https://github.com/Akash-code-0-1/Genesis_Website)  
   💻 A modern, interactive, and **responsive** website built with **React.js** and **Tailwind CSS** to showcase projects, blogs, and personal branding.  
+  
 
 ---
 
