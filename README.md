@@ -71,6 +71,3 @@ Let's collaborate and build transformative solutions! 🚀</h5>
 
 ---
 
-## 🔥 Visitor Counter  
-![Profile Views](https://komarev.com/ghpvc/?username=Akash-code-0-1&color=blue&style=flat-square)
-
