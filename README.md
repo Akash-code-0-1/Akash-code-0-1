@@ -38,7 +38,6 @@ Let's collaborate and build transformative solutions! 🚀</h5>
 - 🌐 [Genesis Website](https://github.com/Akash-code-0-1/Genesis_Website)  
   💻 A modern, interactive, and **responsive** website built with **React.js** and **Tailwind CSS** to showcase projects, blogs, and personal branding.  
   
-
 ---
 ---
 
