@@ -40,7 +40,6 @@ Let's collaborate and build transformative solutions! 🚀</h5>
   💻 A modern, interactive, and **responsive** website built with **React.js** and **Tailwind CSS** to showcase projects, blogs, and personal branding.  
   
 ---
----
 
 <h4 align="left">🛠 Language and tools</h4>
 
