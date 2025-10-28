@@ -10,7 +10,6 @@
   </a>
 </div>
 
-
 <h5 align="left">I am a Computer Science student, web developer, and passionate programmer with a strong foundation in problem-solving and real-world application development. My expertise lies in crafting efficient, scalable solutions to complex challenges, leveraging my experience in Machine Learning, Artificial Intelligence, and Generative AI.
 
 Actively engaged in research and innovation, I explore cutting-edge technologies to drive impactful advancements. With a deep understanding of software development and a keen interest in AI-driven solutions, I thrive on building intelligent systems that bridge the gap between theory and practical implementation.
