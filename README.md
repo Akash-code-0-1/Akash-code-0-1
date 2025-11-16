@@ -18,7 +18,6 @@ Beyond my academic and professional pursuits, I dedicate my free time to develop
 Let's collaborate and build transformative solutions! 🚀</h5>
 
 ---
-
 ## 📌 Featured Projects
 
 - 🚀 [Problem Solving_C++](https://github.com/Akash-code-0-1/Problem-Solving-C-plus-plus--2025-)  
