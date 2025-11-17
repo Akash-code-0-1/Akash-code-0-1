@@ -62,7 +62,4 @@ Let's collaborate and build transformative solutions! 🚀</h5>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
 
 </div>
-
-
-
 ---
