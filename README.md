@@ -1,5 +1,5 @@
 <div align="center" style="position: relative; display: inline-block;">
-  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/WhatsApp%20Image%202025-02-17%20at%2012,51,35%20PM-photoaidcom-cropped.jpeg?raw=true" 
+  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/gitcover.png?raw=true" 
        height="200" width="200" />
 
   <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank" 
