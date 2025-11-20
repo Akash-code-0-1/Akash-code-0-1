@@ -29,6 +29,9 @@ Let's collaborate and build transformative solutions! 🚀</h5>
 - 📊 [Graph Algorithm Visualizer](https://github.com/Akash-code-0-1/Graph-Algorithms-Visualization.git)
   🔍 A Next.js web app that visualizes graph algorithms like BFS, DFS, and Dijkstra with step-by-step execution and animations. Built with React and Tailwind CSS, it is fully responsive and supports interactive graph creation.
 
+- 📊 [PathAI - Pathfinding Visualization & Optimization](https://github.com/Akash-code-0-1/Shortest-Path-Finding-AI-Visualization)
+  🔍 An interactive web-based platform for visualizing and optimizing pathfinding algorithms with ML-driven recommendations.
+
 - 🔥 [Simple Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application)
   🌍 A **full-stack** social media platform built with **React.js**, featuring real-time chat, post sharing, and a responsive **Tailwind CSS** design. 
 
