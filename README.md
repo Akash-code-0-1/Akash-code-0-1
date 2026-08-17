@@ -8,13 +8,19 @@
          height="25" alt="linkedin logo" />
   </a>
 </div>
-<h5 align="left">I am a Computer Science student, web developer, and passionate programmer with a strong foundation in problem-solving and real-world application development. My expertise lies in crafting efficient, scalable solutions to complex challenges, leveraging my experience in Machine Learning, Artificial Intelligence, and Generative AI.
+<h5 align="left">Full-Stack Developer with 2+ years of experience, specializing in backend engineering, scalable systems, and production-ready applications.
 
-Actively engaged in research and innovation, I explore cutting-edge technologies to drive impactful advancements. With a deep understanding of software development and a keen interest in AI-driven solutions, I thrive on building intelligent systems that bridge the gap between theory and practical implementation.
+I build robust SaaS platforms, e-commerce systems, APIs, and real-time applications using Node.js, NestJS, TypeScript, PostgreSQL, Redis, React, Next.js, Docker, and AWS. I’m passionate about clean architecture, system design, performance, security, and turning complex problems into reliable products.
 
-Beyond my academic and professional pursuits, I dedicate my free time to developing independent projects, continuously refining my skills and staying at the forefront of technological evolution.
+I also bring hands-on experience in AI/ML, NLP, and Computer Vision, with published research and real-world implementations.
 
-Let's collaborate and build transformative solutions! 🚀</h5>
+1000+ coding problems solved across LeetCode, Codeforces, and Beecrowd.
+
+🚀 Building scalable systems. Solving real problems. Engineering for impact.
+
+📌 Portfolio: https://mdtanvirahmed.vercel.app/
+
+💻 GitHub: https://github.com/Akash-code-0-1</h5>
 
 ---
 ## 📌 Featured Projects
