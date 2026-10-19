@@ -43,7 +43,6 @@ I also bring hands-on experience in AI/ML, NLP, and Computer Vision, with publis
 
 - 🌐 [Genesis Website](https://github.com/Akash-code-0-1/Genesis_Website)  
   💻 A modern, interactive, and **responsive** website built with **React.js** and **Tailwind CSS** to showcase projects, blogs, and personal branding.  
-  
 ---
 
 <h4 align="left">🛠 Language and tools</h4>
