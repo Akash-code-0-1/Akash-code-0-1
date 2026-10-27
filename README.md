@@ -8,7 +8,7 @@
          height="25" alt="linkedin logo" />
   </a>
 </div>
-<h5 align="left">Full-Stack Developer with 2+ years of experience, specializing in backend engineering, scalable systems, and production-ready applications.
+<h5 align="left">Full-Stack Developer with 3+ years of experience, specializing in backend engineering, scalable systems, and production-ready applications.
 
 I build robust SaaS platforms, e-commerce systems, APIs, and real-time applications using Node.js, NestJS, TypeScript, PostgreSQL, Redis, React, Next.js, Docker, and AWS. I’m passionate about clean architecture, system design, performance, security, and turning complex problems into reliable products.
 
