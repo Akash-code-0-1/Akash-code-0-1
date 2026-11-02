@@ -48,23 +48,24 @@ I also bring hands-on experience in <strong>AI/ML, NLP, and Computer Vision</str
 
 ## 📌 Featured Projects
 
-- 🛍️ **[Creass Mart - Full-Stack eCommerce Platform](https://github.com/Akash-code-0-1)**
+- 🛍️ **[Creass Mart - Full-Stack eCommerce Platform](https://creassmart.com/)**
   - Dynamic eCommerce platform built with **Next.js 19, TypeScript, React, and Tailwind CSS**.
   - Centralized admin dashboard featuring **RBAC**, catalog management, dynamic CMS, and a custom landing page builder.
   - Powered by **TanStack Query, Zustand, REST APIs**, and tailored SEO optimizations.
 
-- 🏨 **[GoldShift - Two-Sided Hospitality Staffing Marketplace](https://github.com/Akash-code-0-1)**
-  - Live dual-sided marketplace serving **750+ active workers and employers** with real-time shift scheduling.
+- 🏨 **[GoldShift - Two-Sided Hospitality Staffing Marketplace](https://play.google.com/store/apps/details?id=com.beuptech.goldshift)**
+  - Live dual-sided marketplace serving **2850+ active workers and employers** with real-time shift scheduling.
   - Leveraged **Firebase Realtime Database** for low-latency status updates, notifications, and instant job matching.
 
-- 🏢 **[Multi-Tenant SaaS Salon Management Engine](https://github.com/Akash-code-0-1)**
+- 🏢 **[Multi-Tenant SaaS Salon Management Engine](https://github.com/Akash-code-0-1/Multi-tenant-SaaS-Backend-NestJS-Prisma-PostgreSQL-Neon-Docker)**
   - Modular multi-tenant backend built with **NestJS, Prisma ORM, and PostgreSQL** featuring strict tenancy data isolation.
   - Enterprise security suite with multi-role **JWT authentication, RBAC, Throttler rate limiting**, and **Redis** caching with **BullMQ** background jobs.
 
-- 🎯 **[AI-Based Thermal Face Recognition System](https://github.com/Akash-code-0-1)**
+- 🎯 **[AI-Based Thermal Face Recognition System](https://drive.google.com/file/d/16UcvqGS7J93y-q3bRt41-i-V3Cvo1HvD/view)**
   - Real-time thermal-to-RGB face recognition pipeline using **YOLOv8, CycleGAN, and InsightFace**, achieving **95.31% accuracy**.
 
-- 📊 **[PathAI & Graph Visualizer](https://github.com/Akash-code-0-1/Shortest-Path-Finding-AI-Visualization)**
+- 📊 **[Graph Visualizer](https://graphalgorithmvisualizer.vercel.app/)**
+- 📊 **[PathAI](https://shortest-path-finding-ai-visualizat.vercel.app/)**
   - Interactive algorithmic visualization platform tracing BFS, DFS, and Dijkstra algorithms with ML-driven path recommendations built using **React, Python, and Tailwind CSS**.
 
 - 🔥 **[Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application)**
