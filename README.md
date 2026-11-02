@@ -12,7 +12,7 @@
 <p align="left"><strong>Full-Stack Developer</strong> with 2.6+ years of experience specializing in backend engineering, scalable multi-vendor architectures, and high-performance system design.</p>
 
 <p align="left">
-I build robust SaaS platforms, multi-tenant engines, and real-time applications using <strong>Node.js, NestJS, TypeScript, PostgreSQL, Redis, React, Next.js, Docker, and AWS</strong>. Passionate about clean architecture, system reliability, security, and turning complex domain problems into production-ready software.
+I build robust SaaS platforms, multi-tenant engines, and real-time applications using <strong>Node.js, NestJS, TypeScript, PostgreSQL, Redis, React, Next.js, Docker,VPS , Coolify and AWS</strong>. Passionate about clean architecture, system reliability, security, and turning complex domain problems into production-ready software.
 </p>
 
 <p align="left">
