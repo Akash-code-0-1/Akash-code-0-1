@@ -1,70 +1,122 @@
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/fasd.png?raw=true" 
-       height="450" width="1000" />
+<div align="center">
+  <img src="https://github.com/Akash-code-0-1/Profile/blob/main/fasd.png?raw=true" height="450" width="1000" alt="Banner" />
 
-  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank" 
-     style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
 </div>
-<h5 align="left">Full-Stack Developer with 3+ years of experience, specializing in backend engineering, scalable systems, and production-ready applications.
 
-I build robust SaaS platforms, e-commerce systems, APIs, and real-time applications using Node.js, NestJS, TypeScript, PostgreSQL, Redis, React, Next.js, Docker, and AWS. I’m passionate about clean architecture, system design, performance, security, and turning complex problems into reliable products.
+<br/>
 
-I also bring hands-on experience in AI/ML, NLP, and Computer Vision, with published research and real-world implementations.
+<h3 align="left">👋 Hi, I'm Md. Tanvir Ahmed Akash</h3>
+<p align="left"><strong>Full-Stack Developer</strong> with 2.6+ years of experience specializing in backend engineering, scalable multi-vendor architectures, and high-performance system design.</p>
 
-1000+ coding problems solved across LeetCode, Codeforces, and Beecrowd.
+<p align="left">
+I build robust SaaS platforms, multi-tenant engines, and real-time applications using <strong>Node.js, NestJS, TypeScript, PostgreSQL, Redis, React, Next.js, Docker, and AWS</strong>. Passionate about clean architecture, system reliability, security, and turning complex domain problems into production-ready software.
+</p>
 
-🚀 Building scalable systems. Solving real problems. Engineering for impact.
+<p align="left">
+I also bring hands-on experience in <strong>AI/ML, NLP, and Computer Vision</strong> with published research in IEEE and Elsevier, alongside solving <strong>1000+ algorithmic problems</strong> across LeetCode, Codeforces, and Beecrowd.
+</p>
 
-📌 Portfolio: https://mdtanvirahmed.vercel.app/
+<p align="left">
+🚀 <em>Building scalable systems. Solving real-world problems. Engineering for impact.</em>
+</p>
 
-💻 GitHub: https://github.com/Akash-code-0-1</h5>
+<p align="left">
+🌐 <strong>Portfolio:</strong> <a href="https://mdtanvirahmed.vercel.app/" target="_blank">mdtanvirahmed.vercel.app</a><br/>
+💻 <strong>GitHub:</strong> <a href="https://github.com/Akash-code-0-1" target="_blank">github.com/Akash-code-0-1</a><br/>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-tanvir-ahmed-akash-2b4138271/" target="_blank">md-tanvir-ahmed-akash</a>
+</p>
 
 ---
+
+## 💼 Work Experience
+
+- 🚀 **Full Stack Developer (Backend Focused)** @ **Code & Get** *(Present)*
+  - Built and scaled multi-vendor e-commerce and MVP platforms with optimized backend architectures.
+  - Managed VPS deployments, RESTful APIs, and DevOps pipelines ensuring high system availability.
+
+- ⚡ **Full Stack Developer** @ **Beup In-Tech (Betopia Group)** *(Feb 2026 – Apr 2026)*
+  - Developed scalable SaaS applications using Node.js, NestJS, Prisma, and PostgreSQL.
+  - Designed modular architectures and production-ready APIs supporting cross-platform mobile and web apps.
+
+- 🛠 **Freelance Software Developer** *(2023 – 2025)*
+  - Delivered end-to-end solutions including full-stack web applications, admin dashboards, and scalable MVPs for global clients.
+
+---
+
 ## 📌 Featured Projects
 
-- 🚀 [Problem Solving_C++](https://github.com/Akash-code-0-1/Problem-Solving-C-plus-plus--2025-)  
-  🏆 A collection of optimized problem-solving solutions using multiple approaches in **C++**, helping to build strong algorithmic thinking.  
+- 🛍️ **[Creass Mart - Full-Stack eCommerce Platform](https://github.com/Akash-code-0-1)**
+  - Dynamic eCommerce platform built with **Next.js 19, TypeScript, React, and Tailwind CSS**.
+  - Centralized admin dashboard featuring **RBAC**, catalog management, dynamic CMS, and a custom landing page builder.
+  - Powered by **TanStack Query, Zustand, REST APIs**, and tailored SEO optimizations.
 
-- 📊 [Sorting Algorithm Visualizer](https://github.com/Akash-code-0-1/SortViz)  
-  🔢 A **React.js** web app that visualizes **9 sorting algorithms** with step-by-step execution and explanations. Built with **Tailwind CSS**, it is fully responsive.
+- 🏨 **[GoldShift - Two-Sided Hospitality Staffing Marketplace](https://github.com/Akash-code-0-1)**
+  - Live dual-sided marketplace serving **750+ active workers and employers** with real-time shift scheduling.
+  - Leveraged **Firebase Realtime Database** for low-latency status updates, notifications, and instant job matching.
 
-- 📊 [Graph Algorithm Visualizer](https://github.com/Akash-code-0-1/Graph-Algorithms-Visualization.git)
-  🔍 A Next.js web app that visualizes graph algorithms like BFS, DFS, and Dijkstra with step-by-step execution and animations. Built with React and Tailwind CSS, it is fully responsive and supports interactive graph creation.
+- 🏢 **[Multi-Tenant SaaS Salon Management Engine](https://github.com/Akash-code-0-1)**
+  - Modular multi-tenant backend built with **NestJS, Prisma ORM, and PostgreSQL** featuring strict tenancy data isolation.
+  - Enterprise security suite with multi-role **JWT authentication, RBAC, Throttler rate limiting**, and **Redis** caching with **BullMQ** background jobs.
 
-- 📊 [PathAI - Pathfinding Visualization & Optimization](https://github.com/Akash-code-0-1/Shortest-Path-Finding-AI-Visualization)
-  🔍 An interactive web-based platform for visualizing and optimizing pathfinding algorithms with ML-driven recommendations.
+- 🎯 **[AI-Based Thermal Face Recognition System](https://github.com/Akash-code-0-1)**
+  - Real-time thermal-to-RGB face recognition pipeline using **YOLOv8, CycleGAN, and InsightFace**, achieving **95.31% accuracy**.
 
-- 🔥 [Simple Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application)
-  🌍 A **full-stack** social media platform built with **React.js**, featuring real-time chat, post sharing, and a responsive **Tailwind CSS** design. 
+- 📊 **[PathAI & Graph Visualizer](https://github.com/Akash-code-0-1/Shortest-Path-Finding-AI-Visualization)**
+  - Interactive algorithmic visualization platform tracing BFS, DFS, and Dijkstra algorithms with ML-driven path recommendations built using **React, Python, and Tailwind CSS**.
 
+- 🔥 **[Full-Stack Social Media Application](https://github.com/Akash-code-0-1/Complete-Social-Media-Web-Application)**
+  - Modern social hub featuring secure authentication, media post management, and real-time chat interactions.
 
-- 🌐 [Genesis Website](https://github.com/Akash-code-0-1/Genesis_Website)  
-  💻 A modern, interactive, and **responsive** website built with **React.js** and **Tailwind CSS** to showcase projects, blogs, and personal branding.  
 ---
-<h4 align="left">🛠 Language and tools</h4>
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="scss logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-<img width="12" />
+## 📄 Research & Publications
 
-</div>
+- 📖 **IEEE COMPAS 2024:** *Bengali Text Classification using SVM* (Achieved 92.33% Accuracy)
+- 📊 **Elsevier (ScienceDirect) 2025:** *Bangla Ecom Review Corpus Dataset* (Published dataset for NLP sentiment research)
+- 📡 **IEEE ICCIT 2025:** *IoT Environmental & UV Monitoring System* (Real-time safety analytics)
+
 ---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+---
+
+## 🎓 Education & Competitive Programming
+
+- 🎓 **B.Sc. in Computer Science & Engineering** — Daffodil International University (2021 – 2025) | **CGPA: 3.49/4.00**
+- 🏆 **Competitive Programming:** Solved **1000+ problems** across LeetCode, Codeforces, and Beecrowd focusing on complex data structures, graph algorithms, and optimization under time constraints.
