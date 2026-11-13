@@ -5,7 +5,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
 </div>
-
 <br/>
 
 <h3 align="left">👋 Hi, I'm Md. Tanvir Ahmed Akash</h3>
@@ -78,7 +77,6 @@ I also bring hands-on experience in <strong>AI/ML, NLP, and Computer Vision</str
 - 📖 **IEEE COMPAS 2024:** *Bengali Text Classification using SVM* (Achieved 92.33% Accuracy)
 - 📊 **Elsevier (ScienceDirect) 2025:** *Bangla Ecom Review Corpus Dataset* (Published dataset for NLP sentiment research)
 - 📡 **IEEE ICCIT 2025:** *IoT Environmental & UV Monitoring System* (Real-time safety analytics)
-
 ---
 
 ## 🛠️ Languages & Technologies
@@ -113,6 +111,9 @@ I also bring hands-on experience in <strong>AI/ML, NLP, and Computer Vision</str
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
+
+
 </p>
 
 ---
